@@ -102,8 +102,7 @@ Here's the breakdown of the top data analyst jobs in Spain in 2023:
 ---
 
 
-![Top 10 highest-paying data analyst jobs in Spain, ranked by salary from highest to lowest. Capgemini leads at $155,000, followed by Allianz at $118,640. Octopus Energy, Adevinta, PayFit, Publicis Groupe, and Netcentric cluster around $111,175. The bar chart displays companies on the y-axis and salary in dollars on the x-axis, ranging from 0 to $160,000. The visualization emphasizes Capgemini and Allianz as top employers with significantly higher compensation for data analyst roles in Spain.](visuals/top-10-paying-jobs-spain.png)
-
+![Top 10 highest-paying data analyst jobs in Spain, ranked by salary from highest to lowest. Capgemini leads at $155,000, followed by Allianz at $118,640. Octopus Energy, Adevinta, PayFit, Publicis Groupe, and Netcentric cluster around $111,175. The bar chart displays companies on the y-axis and salary in dollars on the x-axis, ranging from 0 to $160,000. The visualization emphasizes Capgemini and Allianz as top employers with significantly higher compensation for data analyst roles in Spain.](visuals/top-10-paying-data-jobs-spain.png)
 
 ***Bar chart visualizing the salary distribution of the top 10 highest-paying data analyst roles in Spain.***
 
@@ -149,8 +148,8 @@ Here's the breakdown of the most demanded skills for the top-paying data analyst
 
 
 
-****Bar chart showing the frequency of skills required across the top 10 highest-paying data analyst jobs in Spain.****
----
+***Bar chart showing the frequency of skills required across the top 10 highest-paying data analyst jobs in Spain.***
+
 
 ### 3. In-Demand Skills for Data Analysts in Spain
 
@@ -182,7 +181,7 @@ Here's the breakdown of the most demanded skills for data analysts in Spain in 2
 
 
 ***Bar chart highlighting the top 5 most in-demand skills for data analysts in Spain.***
----
+
 
 ### 4. Skills Based on Salary in Spain
 
@@ -218,7 +217,7 @@ Here's a breakdown of the results for top paying skills in Spain:
 
 
 ***Bar chart visualizing the highest-paying skills for data analysts in Spain.***
----
+
 
 ### 5. Most Optimal Skills to Learn in Spain
 
