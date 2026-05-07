@@ -3,7 +3,7 @@
 
 📊 Dive into the **Spanish data job market in 2023**! Focusing on data analyst roles in Spain, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics across Spain.
 
-🔍 SQL queries? Check them out here: **👉 [Project_SQL Folder](/Project_SQL/)**
+🔍 SQL queries? Check them out here: **👉 [`analysis_queries`](./sql/analysis_queries/)*
 
 ---
 
@@ -11,7 +11,7 @@
 
 Driven by a quest to navigate the **Spanish data analyst job market** more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills in Spain, streamlining others' work to find optimal jobs.
 
-Data hails from Luke Barousse's Course: **[SQL Course](/https://www.lukebarousse.com/sql/)**.
+Data hails from Luke Barousse's Course: **[SQL Course](https://www.lukebarousse.com/sql)**.
 It's packed with insights on job titles, salaries, locations, and essential skills relevant to the Spanish market and the data jobs market as a whole.
 
 ---
@@ -34,6 +34,20 @@ For my deep dive into the Spanish data analyst job market, I harnessed the power
 * **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 * **Visual Studio Code:** My go-to for database management and executing SQL queries.
 * **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis.
+
+---
+
+## Project Structure
+
+```
+sql/
+│
+├── database_setup/        # Database creation & schema setup
+├── analysis_queries/      # Main analytical SQL queries
+├── practice_queries/      # Learning & practice queries
+│
+visuals/                    # Visualizations and charts
+```
 
 ---
 
