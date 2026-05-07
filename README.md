@@ -102,7 +102,7 @@ Here's the breakdown of the top data analyst jobs in Spain in 2023:
 ---
 
 
-![Top 10 highest-paying data analyst jobs in Spain, ranked by salary from highest to lowest. Capgemini leads at $155,000, followed by Allianz at $118,640. Octopus Energy, Adevinta, PayFit, Publicis Groupe, and Netcentric cluster around $111,175. The bar chart displays companies on the y-axis and salary in dollars on the x-axis, ranging from 0 to $160,000. The visualization emphasizes Capgemini and Allianz as top employers with significantly higher compensation for data analyst roles in Spain.](Assets/Table%20of%20top%2010%20paying%20jobs%20in%20Spain.png)
+![Top 10 highest-paying data analyst jobs in Spain, ranked by salary from highest to lowest. Capgemini leads at $155,000, followed by Allianz at $118,640. Octopus Energy, Adevinta, PayFit, Publicis Groupe, and Netcentric cluster around $111,175. The bar chart displays companies on the y-axis and salary in dollars on the x-axis, ranging from 0 to $160,000. The visualization emphasizes Capgemini and Allianz as top employers with significantly higher compensation for data analyst roles in Spain.](visuals/top-10-paying-jobs-spain.png)
 
 
 ***Bar chart visualizing the salary distribution of the top 10 highest-paying data analyst roles in Spain.***
@@ -145,7 +145,7 @@ Here's the breakdown of the most demanded skills for the top-paying data analyst
 * Employers value both analytical and technical skills.
 
 
-![Bar chart displaying the frequency of skills required across the top 10 highest-paying data analyst jobs in Spain. SQL appears most frequently, followed by Python, Tableau, Power BI, and Excel. The horizontal bars are color-coded, with skill names on the y-axis and frequency count on the x-axis ranging from 0 to 10. The chart emphasizes that SQL and Python are essential technical competencies for premium-paying analyst positions in the Spanish job market.](Assets/Top%20skills%20for%20high%20paying%20Jobs%20Spain.png)
+![Bar chart displaying the frequency of skills required across the top 10 highest-paying data analyst jobs in Spain. SQL appears most frequently, followed by Python, Tableau, Power BI, and Excel. The horizontal bars are color-coded, with skill names on the y-axis and frequency count on the x-axis ranging from 0 to 10. The chart emphasizes that SQL and Python are essential technical competencies for premium-paying analyst positions in the Spanish job market.](visuals/top-skills-high-paying-jobs-spain.png)
 
 
 
@@ -178,7 +178,7 @@ Here's the breakdown of the most demanded skills for data analysts in Spain in 2
 * Core tools like SQL and Excel remain essential.
 * Visualization tools and programming languages are increasingly important.
 
-![Bar chart displaying the top 5 most in-demand skills for data analysts in Spain. SQL leads with the highest demand count, followed by Python, Excel, Power BI, and Tableau. The horizontal bars are color-coded, with skill names on the y-axis and demand frequency count on the x-axis. The chart emphasizes that SQL and Python are foundational technical competencies essential for data analyst positions in the Spanish job market, while visualization and spreadsheet tools remain critical for day-to-day work.](Assets/Top%205%20in-Demand%20skills%20Spain.png)
+![Bar chart displaying the top 5 most in-demand skills for data analysts in Spain. SQL leads with the highest demand count, followed by Python, Excel, Power BI, and Tableau. The horizontal bars are color-coded, with skill names on the y-axis and demand frequency count on the x-axis. The chart emphasizes that SQL and Python are foundational technical competencies essential for data analyst positions in the Spanish job market, while visualization and spreadsheet tools remain critical for day-to-day work.](visuals/top-5-in-demand-skills-spain.png)
 
 
 ***Bar chart highlighting the top 5 most in-demand skills for data analysts in Spain.***
@@ -213,7 +213,7 @@ Here's a breakdown of the results for top paying skills in Spain:
 * Technical depth increases earning potential.
 
 
-![Top Paying Skills in Spain bar chart showing average salary by skill. Smartsheet leads at approximately $160,000, followed by SAP at $120,000. Scikit, React, Angular, Node, NumPy, Matplotlib, and Pandas cluster between $105,000-$110,000. Jupyter ranks lowest at approximately $100,000. The horizontal axis displays average salary in dollars from 0 to $160,000. The chart uses blue bars to represent each skill's compensation level, emphasizing that Smartsheet and SAP command significantly higher salaries compared to other programming and data analysis tools in the Spanish job market.](Assets/Top%20Paying%20Skills%20Spain.png)
+![Top Paying Skills in Spain bar chart showing average salary by skill. Smartsheet leads at approximately $160,000, followed by SAP at $120,000. Scikit, React, Angular, Node, NumPy, Matplotlib, and Pandas cluster between $105,000-$110,000. Jupyter ranks lowest at approximately $100,000. The horizontal axis displays average salary in dollars from 0 to $160,000. The chart uses blue bars to represent each skill's compensation level, emphasizing that Smartsheet and SAP command significantly higher salaries compared to other programming and data analysis tools in the Spanish job market](visuals/top-paying-skills-spain.png)
 
 
 
@@ -250,7 +250,7 @@ Here's a breakdown of the most optimal skills for data analysts in Spain:
 * A combination of high demand and strong salaries defines the best skills to learn.
 
 
-![Scatter plot titled Optimal Skills (Demand vs Salary) - Spain with Demand Count on the x-axis ranging from 2 to 17 and Average Salary in dollars on the y-axis ranging from 89000 to 111000. Nine skills are plotted as blue dots: NumPy at approximately (2, 112000), Pandas at (4, 107000), Data Wrangler at (2, 105000), Looker at (4, 98000), Python at (15, 96000), Tableau at (9, 91000), and SQL at (17, 89000). The scatter plot reveals that skills in the upper left quadrant, such as NumPy and Pandas, offer optimal balance with high salaries despite lower demand, while skills like SQL show high demand but lower average salary. This visualization helps identify which skills to prioritize learning for maximum career benefit in the Spanish data analyst job market.](Assets/Optimal%20data%20skills%20Spain.png)
+![Scatter plot titled Optimal Skills (Demand vs Salary) - Spain with Demand Count on the x-axis ranging from 2 to 17 and Average Salary in dollars on the y-axis ranging from 89000 to 111000. Nine skills are plotted as blue dots: NumPy at approximately (2, 112000), Pandas at (4, 107000), Data Wrangler at (2, 105000), Looker at (4, 98000), Python at (15, 96000), Tableau at (9, 91000), and SQL at (17, 89000). The scatter plot reveals that skills in the upper left quadrant, such as NumPy and Pandas, offer optimal balance with high salaries despite lower demand, while skills like SQL show high demand but lower average salary. This visualization helps identify which skills to prioritize learning for maximum career benefit in the Spanish data analyst job market.](visuals/optimal-data-skills-spain.png)
 
 
 ***Scatter plot visualizing the relationship between skill demand and average salary in Spain. Each point represents a skill, helping identify the most optimal skills to learn***
